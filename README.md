@@ -13,7 +13,7 @@
 - `api-gateway` — единая точка входа
 
 ### Frontend
-- `mobile` — основное веб-приложение
+- `frontend` — основное веб-приложение
 
 ### Mobile
-- `frontend` — нативное Android-приложение
+- `mobile` — нативное Android-приложение
